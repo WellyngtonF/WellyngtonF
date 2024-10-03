@@ -1,17 +1,12 @@
-### Hi there 👋
+Sempre me mantenho atualizado com as últimas tendências do mercado, sou apaixonado por tecnologia e inovação, buscando soluções criativas e eficazes para os desafios do meu trabalho.
 
-<div align="left">
-  <a href="https://github.com/wellyngtonF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellyngtonF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyngtonF&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wellyngton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wellyngton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Wellyngton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wellyngton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wellyngton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wellyngton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wellyngton-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="Wellyngton-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
   <img align="center" alt="Wellyngton-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
   
@@ -27,4 +22,4 @@
   
   
 - 🔭 Estou atualmente trabalhando na Smartbreeder SA
-- 🌱 Estou aprendendo SQL Server e Javascript 
+- 🌱 Estou atualmente aprendendo GoLang
